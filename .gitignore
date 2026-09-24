@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+server/node_modules/
+meuprojeto/node_modules/
+
+# Expo
+meuprojeto/.expo/
+meuprojeto/dist/
+meuprojeto/web-build/
+
+# Environment variables
+.env
+server/.env
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Lock files (keep package-lock.json, ignore yarn.lock to avoid conflicts)
+meuprojeto/yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Certificates
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Metro
+meuprojeto/.metro-health-check*

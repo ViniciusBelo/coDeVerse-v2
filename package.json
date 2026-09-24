@@ -1,0 +1,11 @@
+{
+  "name": "codeverse",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix meuprojeto install",
+    "start": "npm --prefix meuprojeto start",
+    "android": "npm --prefix meuprojeto run android",
+    "ios": "npm --prefix meuprojeto run ios"
+  }
+}
