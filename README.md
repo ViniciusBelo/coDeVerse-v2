@@ -29,7 +29,7 @@ Escaneie o QR code com o **Expo Go** — o app abre direto no celular.
 - Tela inicial com cursos em destaque e professores recomendados
 - Perfil do aluno
 - Página de professores
-- Lista de tarefas (salva localmente no dispositivo)
+- Lista de tarefas
 - Configurações do aplicativo
 
 ## Estrutura
